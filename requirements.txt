@@ -1,4 +1,1 @@
-smbus
-struct
-time
-signal
+smbus2
